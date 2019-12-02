@@ -14,12 +14,14 @@ Entre em um dos diretórios e instale as dependências:
 
 ```
 yarn install
+npm install
 ```
 
 Depois é só iniciar o ambiente e abrir a URL https://localhost:3000 no navegador! 😃
 
 ```
 yarn dev
+npm run dev
 ```
 
 ## Meta
